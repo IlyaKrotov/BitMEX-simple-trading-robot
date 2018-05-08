@@ -3,6 +3,8 @@
 ### Overview
 This is a sample trading bot for use with BitMEX. It is free to use and modify for your own strategies.
 
+**Disclaimer: All persons who using this code do so at theiк own risk.**
+
 **Develop on Testnet first!** \
 Testnet trading is completely free and is identical to the live market.
 
@@ -20,6 +22,8 @@ and choose preferred leverage (**LEVERAGE**).
 macd, signal, hist = talib.MACD(ohlcv_candles.close.values,
                                 fastperiod=8, slowperiod=28, signalperiod=9)
 ```
+
+---
 
 ### For advanced users
 
