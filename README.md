@@ -35,7 +35,7 @@ If you want to change work logic of bot, you have to change 2 main things:
 
 ---
 #### Notes
-This code was written for my publication in Habr.
+This code was written for my publication in Habr - https://habr.com/post/358398/.
 
 Here my affiliate link for your registration on BitMEX.
 
