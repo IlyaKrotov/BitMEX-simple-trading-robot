@@ -45,4 +45,13 @@ https://www.bitmex.com/register/dduBF7
 
 Users who have signed up with a valid affiliate link will receive a **10% fee discount for 6 months.**
 
+#### Issues
 
+Lots of people find this code not easy to run because of some dependencies. Here you can find libraries which are **essential** for succesful run:
+
+1. talib (https://github.com/mrjbq7/ta-lib)
+2. bitmex (https://github.com/BitMEX/api-connectors/tree/master/official-http/python-swaggerpy)
+And finally, your python must be at least 3.6 version for using f-strings (ex: f"Last prediction: {prediction}")
+Then you can successfully run the code.
+
+If you have problems, feel free to open new issue.
